@@ -1,0 +1,17 @@
+/*This is a CSS file for Part1.html*/
+
+h1{
+	color: red;	
+}
+
+li{
+	color: rgb(76, 135, 73);
+}
+
+p{
+	color: #5d66c7
+}
+
+h4{
+	color: rgba(255, 131, 74, 0.5);
+}
